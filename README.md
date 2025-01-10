@@ -36,7 +36,7 @@ Here are some of the projects I have worked on:
 ### Contact Me
 Feel free to reach out to me through the following channels:
 - Email: [gnimdaoqc@gmail.com](mailto:daogregoire09@gmail.com)
-- GitHub: [Your GitHub Profile](https://github.com/GnimGregoireDAO)
+- GitHub: [https://github.com/GnimGregoireDAO](https://github.com/GnimGregoireDAO)
 
 ### Goals
 Here are some of my future goals:
