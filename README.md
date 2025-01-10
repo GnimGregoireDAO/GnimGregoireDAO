@@ -1,6 +1,6 @@
 # GnimGregoireDAO
 
-- Hello everyone 👋 my name is Gregoire and I am captivated by computer science, its possibilities, and its creations.
+- Hello World👋! My name is Gregoire and I am captivated by computer science, its possibilities, and its creations.
 - As a writer, I would like to bring my stories to life through my code and much more.
 - << The ideology of life is to learn to live with oneself, because we do not choose who we are but we can choose who we become >> Dao Gnim Gregoire
   A life guided by choices. I made mine! Become a developer and realize the dreams and visions of others, but also my own.
@@ -16,6 +16,12 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
+### Projects
+Here are some of the projects I have worked on:
+- **NHL SYSTEM**: A hospital admission management system (school project).
+- **GetTogether**: A site for managing activities with friends (school project).
+- **DropIn**: A site to help students in difficulty.
+
 # My interests
 - 🎮 I like video games
 - 🎵 I love listening to music (mostly French rap)
@@ -26,3 +32,15 @@
 - ⚽ Football
 - ✍️ Writing
 - 🎥 Animes
+
+### Contact Me
+Feel free to reach out to me through the following channels:
+- Email: [gnimdaoqc@gmail.com](mailto:daogregoire09@gmail.com)
+- GitHub: [Your GitHub Profile](https://github.com/GnimGregoireDAO)
+
+### Goals
+Here are some of my future goals:
+- Learn new programming languages like GDScript and Vue.js.
+- Contribute to open-source projects.
+- Build a personal portfolio website.
+- Collaborate with other developers on exciting projects.
