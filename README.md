@@ -17,12 +17,12 @@
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
 # My interests
-- I like video games
-- I love listening to music (mostly French rap)
-- I like dancing Hip-hop
+- 🎮 I like video games
+- 🎵 I love listening to music (mostly French rap)
+- 💃 I like dancing Hip-hop
 
 # My passions
-- Computer science (Problem solving)
-- Football
-- Writing
-- Animes
+- 💻 Computer science (Problem solving)
+- ⚽ Football
+- ✍️ Writing
+- 🎥 Animes
