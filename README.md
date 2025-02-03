@@ -40,7 +40,7 @@ Feel free to reach out to me through the following channels:
 
 ### Goals
 Here are some of my future goals:
-- Learn new programming languages like GDScript and Vue.js.
+- Learn new programming languages like Kotlin.
 - Contribute to open-source projects.
 - Build a personal portfolio website.
 - Collaborate with other developers on exciting projects.
