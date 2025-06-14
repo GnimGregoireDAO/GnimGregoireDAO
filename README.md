@@ -9,18 +9,27 @@
 
 ### My stacks
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- ![Deno.js](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
   
 ### Projects
 Here are some of the projects I have worked on:
-- **NHL SYSTEM**: A hospital admission management system (school project).
-- **GetTogether**: A site for managing activities with friends (school project).
-- **DropIn**: A site to help students in difficulty.
+- **NHL SYSTEM**: A hospital admission management system (school project, Java Fx).
+- **GetTogether**: A site for managing activities with friends (school project, PHP).
+- **DropIn**: A site to help students in difficulty .
+- **Green Pulse**: A B2B e-commerce platform from a Montreal-based startup that simplifies the sale of grains(school project, Spring).
+- **Inv@teMe**: Another version mobile of GetTogether (school project, Kotlin) 
+
 
 # My interests
 - 🎮 I like video games
@@ -40,7 +49,8 @@ Feel free to reach out to me through the following channels:
 
 ### Goals
 Here are some of my future goals:
-- Learn new programming languages like Kotlin.
+- Learn new programming languages like PyTorch for Machine Learning, Three.js.
+- Work on my projects
 - Contribute to open-source projects.
 - Build a personal portfolio website.
 - Collaborate with other developers on exciting projects.
