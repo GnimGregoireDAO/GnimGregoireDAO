@@ -52,7 +52,7 @@ Feel free to reach out to me through the following channels:
 
 ### Goals
 Here are some of my future goals:
-- Learn new programming languages like PyTorch for Machine Learning, Three.js.
+- Learning how to be a good DevSecOps.
 - Work on my projects
 - Contribute to open-source projects.
 - Build a personal portfolio website.
